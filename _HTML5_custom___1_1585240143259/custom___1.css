@@ -1,0 +1,263 @@
+/*
+	@name custom___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_custom___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1400px;
+	height: 800px;
+	overflow:hidden;
+}
+
+#_bg__custom___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1400px;
+	height: 800px;
+	background:rgba(255,255,255,255);
+}
+
+
+#clem_onojeghuo_7rrgppljqyu_unsplash {
+	top: -66px;
+	left: 0px;
+	width: 1400px;
+	height: 933px;
+}
+
+
+#rectangle_2 {
+	opacity:0.14000000059605;
+	top: -14px;
+	left: -1px;
+	width: 1401px;
+	height: 192px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%, rgba(128,128,128,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%, rgba(128,128,128,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%, rgba(128,128,128,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%, rgba(128,128,128,255) 100%);
+	background: linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%, rgba(128,128,128,255) 100%);
+}
+
+#component_2___1 {
+	top: 65px;
+	left: 130px;
+	width: 206.97241210938px;
+	height: 47.880889892578px;
+}
+
+#coast___beach {
+	top: 0px;
+	left: 0px;
+	width: 162px;
+	height: 46px;
+	font-family: Galatik;
+	font-size: 20px;
+	text-align: left;
+	color:#f60841;
+}
+
+#component_1___1 {
+	top: 6px;
+	left: 167px;
+	width: 40.013916015625px;
+	height: 41.654083251953px;
+}
+
+#path_2 {
+	top: 2px;
+	left: 2px;
+	width: 35.848022460938px;
+	height: 36.71452331543px;
+}
+
+
+#path_1 {
+	top: 8px;
+	left: 167px;
+	width: 29.364135742188px;
+	height: 27.548645019531px;
+}
+
+#group_2 {
+	top: 64px;
+	left: 1127px;
+	width: 143px;
+	height: 50px;
+}
+#group_1 {
+	top: 0px;
+	left: 0px;
+	width: 143px;
+	height: 50px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 143px;
+	height: 50px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(13,71,229,255);
+}
+
+
+#book_now {
+	top: 15px;
+	left: 33px;
+	width: 89px;
+	height: 22px;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_001_youtube {
+	top: 712px;
+	left: 1059px;
+	width: 51.91015625px;
+	height: 36.345458984375px;
+}
+
+#_003_linkedin_logo {
+	top: 714px;
+	left: 1147px;
+	width: 32.888916015625px;
+	height: 32.888977050781px;
+}
+#post_linkedin {
+	top: 0px;
+	left: 0px;
+	width: 32.888916015625px;
+	height: 32.888977050781px;
+}
+
+#path_3 {
+	top: 0px;
+	left: 0px;
+	width: 32.888916015625px;
+	height: 32.888977050781px;
+}
+
+#_005_twitter {
+	top: 711px;
+	left: 1215px;
+	width: 46.672119140625px;
+	height: 37.921142578125px;
+}
+#group_3 {
+	top: 0px;
+	left: 0px;
+	width: 46.672119140625px;
+	height: 37.921142578125px;
+}
+
+#path_4 {
+	top: 0px;
+	left: 0px;
+	width: 46.672119140625px;
+	height: 37.921142578125px;
+}
+
+
+#coast__tours {
+	top: 341px;
+	left: 317px;
+	width: 691px;
+	height: 253px;
+	font-family: Galatik;
+	font-size: 110px;
+	text-align: left;
+	-ms-text-shadow:0px 15px 5px rgba(0,0,0,0.89);
+	-o-text-shadow:0px 15px 5px rgba(0,0,0,0.89);
+	-webkit-text-shadow:0px 15px 5px rgba(0,0,0,0.89);
+	-moz-text-shadow:0px 15px 5px rgba(0,0,0,0.89);
+	text-shadow:0px 15px 5px rgba(0,0,0,0.89);
+	color:#ffffff;
+}
+
+
+#ellipse_1 {
+	opacity:0.74000000953674;
+	top: 659px;
+	left: 619px;
+	width: 91px;
+	height: 91px;
+	-ms-border-radius: 45.5px / 45.5px;
+	-o-border-radius: 45.5px / 45.5px;
+	-moz-border-radius: 45.5px / 45.5px;
+	-webkit-border-radius: 45.5px / 45.5px;
+	border-radius: 45.5px / 45.5px;
+	background:rgba(26,59,165,255);
+}
+
+#group_9 {
+	top: 678px;
+	left: 632px;
+	width: 64.392700195312px;
+	height: 58.910705566406px;
+}
+#group_8 {
+	top: 0px;
+	left: 0px;
+	width: 64.392700195312px;
+	height: 58.910705566406px;
+}
+#group_7 {
+	top: 0px;
+	left: 0px;
+	width: 64.392700195312px;
+	height: 58.910705566406px;
+}
+#group_6 {
+	top: 0px;
+	left: 0px;
+	width: 64.392700195312px;
+	height: 58.910705566406px;
+}
+
+#path_5 {
+	top: 21px;
+	left: -2px;
+	width: 68.106811523438px;
+	height: 41.159118652344px;
+}
+
+
+#path_6 {
+	top: 10px;
+	left: -2px;
+	width: 68.106811523438px;
+	height: 41.159057617188px;
+}
+
+
+#path_7 {
+	top: -2px;
+	left: -2px;
+	width: 68.106811523438px;
+	height: 41.159118652344px;
+}
+
+
+
+/* Add your custom CSS here */
